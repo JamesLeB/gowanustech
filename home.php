@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Page Title</title>
+    <title>Gowanustech</title>
     <script src='../jquery.js'></script>
     <script src='../jquery-ui.js'></script>
     <link href='../jquery-ui.css' rel='stylesheet'/>
