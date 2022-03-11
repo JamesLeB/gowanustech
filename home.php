@@ -16,11 +16,11 @@
       <div>
         <div id='tabs'>
           <ul>
-            <li><a href='#tab1'>tab uno</a></li>
-            <li><a href='#tab2'>tab two</a></li>
+            <li><a href='#tab1'>People</a></li>
+            <li><a href='#tab2'>Jobs</a></li>
           </ul>
-          <div id='tab1'> data for tab one </div>
-          <div id='tab2'> data for second tab </div>
+          <div id='tab1'>Richard Timbol</div>
+          <div id='tab2'>Davis Polk</div>
         </div>
       </div>
     </div>
