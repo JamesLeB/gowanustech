@@ -2,6 +2,9 @@
 <html>
   <head>
     <title>Page Title</title>
+    <script src='jquery.js'></script>
+    <script src='jquery.ui.js'></script>
+    <link href='jquery.ui.css' rel='stylesheet'/>
   </head>
   <body>
     <div id='wrapper'>
