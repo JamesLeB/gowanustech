@@ -1,6 +1,7 @@
 <?php
-  $testing = file_get_contents('views/test.html');
   $links = file_get_contents('views/links.html');
+  $jobs = file_get_contents('views/jobs.html');
+  $people = file_get_contents('views/people.html');
 ?>
 
 <!DOCTYPE html>
@@ -25,9 +26,9 @@
             <li><a href='#tab2'>Jobs</a></li>
             <li><a href='#tab3'>Links</a></li>
           </ul>
-          <div id='tab1'><?php echo $testing; ?></div>
-          <div id='tab2'>Davis Polk</div>
-          <div id='tab3'><?php echo $links; ?></div>
+          <div id='tab1'><?php echo $links; ?></div>
+          <div id='tab2'><?php echo $jobs; ?></div>
+          <div id='tab3'><?php echo $people; ?></div>
         </div>
       </div>
     </div>
