@@ -1,6 +1,6 @@
 <?php
   $testing = file_get_contents('views/test.html');
-  $links = "link file here";
+  $links = file_get_contents('views/links.html');
 ?>
 
 <!DOCTYPE html>
