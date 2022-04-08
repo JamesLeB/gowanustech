@@ -25,12 +25,12 @@
             <li><a href='#tab1'>Links</a></li>
             <li><a href='#tab2'>Jobs</a></li>
             <li><a href='#tab3'>People</a></li>
-            <li><a href='#tab3'>Notes</a></li>
+            <li><a href='#tab4'>Notes</a></li>
           </ul>
           <div id='tab1'><?php echo $links; ?></div>
           <div id='tab2'><?php echo $jobs; ?></div>
           <div id='tab3'><?php echo $people; ?></div>
-          <div id='tab3'>Notes page</div>
+          <div id='tab4'>Notes page</div>
         </div>
       </div>
     </div>
